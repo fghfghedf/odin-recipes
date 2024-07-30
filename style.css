@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(222, 206, 135)    ;
+}
+
+h2 {
+    color: rgb(226, 43, 43);
+    text-align: center;
+    font-family:cursive;
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(78, 134, 21);
+}
+
+li, p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 25px;
+
+}
